@@ -1,4 +1,4 @@
-## XXXXX Project by :  
+## XXXXX Project by : Alice atamny, Nour Saad, Jawad Mobarky
   
 ## Details about the project
  
